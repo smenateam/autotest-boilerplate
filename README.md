@@ -21,10 +21,10 @@
 
 Клонируем стартовый репозиторий
 
-`git clone [https://github.com/smenateam/autotest-boilerplate](https://github.com/smenateam/autotest-boilerplate)`
+`git clone https://github.com/smenateam/autotest-boilerplate`
 
-переходим в папку [autotest-boilerplate](https://github.com/smenateam/autotest-boilerplate) и устанавливаем зависимости командой `npm install`
+переходим в папку autotest-boilerplate и устанавливаем зависимости командой `npm install`
 
-тесты располагаются в папке __test__
+тесты располагаются в папке `__test__`
 
 Запускаем тесты командой `npm run test`
